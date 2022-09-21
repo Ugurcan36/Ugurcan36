@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ugurcan36
 - 👀 I’m interested in Data visualization, Pyhton Data analysis libraries( Numpy, Pandas, Matplotlib, etc. ) , SQL
 - 🌱 I’m currently learning Pyhton libraries
-- 💞️ I’m looking to collaborate on SQL and Data visualization
+- 💞️ I’m looking to collaborate on SQL and Data visualizations
 - 📫 How to reach me from Twitter @urcicici
 
 <!---
