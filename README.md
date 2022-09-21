@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Pyhton libraries
 - 💞️ I’m looking to collaborate on SQL and Data visualizations
 - 📫 How to reach me from Twitter @urcicici
+- Also I'm interested cloud computing
 
 <!---
 Ugurcan36/Ugurcan36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
